@@ -1,11 +1,11 @@
 # Section 1 - Welcome To Epic React
-- [ ] Welcome to Epic React
-- [ ] Project READMEs and Pre Reqs
-- [ ] Clone and Setup
-- [ ] Running the Epic React Workshop App
-- [ ] File Structure
-- [ ] Running Tests
-- [ ] Example Runthrough
+- [x] Welcome to Epic React
+- [x] Project READMEs and Pre Reqs
+- [x] Clone and Setup
+- [x] Running the Epic React Workshop App
+- [x] File Structure
+- [x] Running Tests
+- [x] Example Runthrough
 
 # Section 2 - React Fundamentals
 - [ ] React Fundamentals Welcome
