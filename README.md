@@ -8,15 +8,15 @@
 - [x] Example Runthrough
 
 # Section 2 - React Fundamentals
-- [ ] React Fundamentals Welcome
-- [ ] Basic JS "Hello World"
-- [ ] Intro to Raw React APIs
-- [ ] Using JSX
-- [ ] Creating Custom Components
-- [ ] Styling
-- [ ] Forms
-- [ ] Rendering Arrays
-- [ ] React Fundamentals Outro
+- [x] React Fundamentals Welcome
+- [x] Basic JS "Hello World"
+- [x] Intro to Raw React APIs
+- [x] Using JSX
+- [x] Creating Custom Components
+- [x] Styling
+- [x] Forms
+- [x] Rendering Arrays
+- [x] React Fundamentals Outro
 
 # Section 3 - React Hooks
 - [ ] React Hooks Welcome
