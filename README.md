@@ -19,9 +19,9 @@
 - [x] React Fundamentals Outro
 
 # Section 3 - React Hooks
-- [ ] React Hooks Welcome
-- [ ] useState: greeting
-- [ ] useEffect: persistent state
+- [x] React Hooks Welcome
+- [x] useState: greeting
+- [x] useEffect: persistent state
 - [ ] Hooks Flow
 - [ ] Lifting state
 - [ ] useState: tic tac toe
