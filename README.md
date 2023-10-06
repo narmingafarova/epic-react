@@ -22,12 +22,12 @@
 - [x] React Hooks Welcome
 - [x] useState: greeting
 - [x] useEffect: persistent state
-- [ ] Hooks Flow
-- [ ] Lifting state
-- [ ] useState: tic tac toe
-- [ ] useRef and useEffect: DOM interaction
-- [ ] useEffect: HTTP requests
-- [ ] React Hooks Outro
+- [x] Hooks Flow
+- [x] Lifting state
+- [x] useState: tic tac toe
+- [x] useRef and useEffect: DOM interaction
+- [x] useEffect: HTTP requests
+- [x] React Hooks Outro
 
 # Section 4 - Advanced React Hooks
 - [ ] Advanced React Hooks Welcome
