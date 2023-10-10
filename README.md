@@ -30,10 +30,10 @@
 - [x] React Hooks Outro
 
 # Section 4 - Advanced React Hooks
-- [ ] Advanced React Hooks Welcome
-- [ ] useReducer: simple Counter
-- [ ] useCallback: custom hooks
-- [ ] useContext: simple Counter
+- [x] Advanced React Hooks Welcome
+- [x] useReducer: simple Counter
+- [x] useCallback: custom hooks
+- [x] useContext: simple Counter
 - [ ] useLayoutEffect: auto-growing textarea
 - [ ] useImperativeHandle: scroll to top/bottom
 - [ ] useDebugValue: useMedia
