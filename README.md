@@ -34,10 +34,10 @@
 - [x] useReducer: simple Counter
 - [x] useCallback: custom hooks
 - [x] useContext: simple Counter
-- [ ] useLayoutEffect: auto-growing textarea
-- [ ] useImperativeHandle: scroll to top/bottom
-- [ ] useDebugValue: useMedia
-- [ ] Advanced React Hooks Outro
+- [x] useLayoutEffect: auto-growing textarea
+- [x] useImperativeHandle: scroll to top/bottom
+- [x] useDebugValue: useMedia
+- [x] Advanced React Hooks Outro
 
 # Section 5 - Advanced React Patterns
 - [ ] Advanced React Patterns Welcome
