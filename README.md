@@ -40,9 +40,9 @@
 - [x] Advanced React Hooks Outro
 
 # Section 5 - Advanced React Patterns
-- [ ] Advanced React Patterns Welcome
-- [ ] Context Module Functions
-- [ ] Compound Components
+- [x] Advanced React Patterns Welcome
+- [x] Context Module Functions
+- [x] Compound Components
 - [ ] Flexible Compound Components
 - [ ] Prop Collections and Getters
 - [ ] State Reducer
