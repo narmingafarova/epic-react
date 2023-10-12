@@ -43,11 +43,11 @@
 - [x] Advanced React Patterns Welcome
 - [x] Context Module Functions
 - [x] Compound Components
-- [ ] Flexible Compound Components
-- [ ] Prop Collections and Getters
-- [ ] State Reducer
-- [ ] Control Props
-- [ ] Advanced React Patterns Outro
+- [x] Flexible Compound Components
+- [x] Prop Collections and Getters
+- [x] State Reducer
+- [x] Control Props
+- [x] Advanced React Patterns Outro
 
 # Section 6 - React Performance
 - [ ] React Performance Welcome
