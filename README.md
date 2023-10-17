@@ -50,9 +50,9 @@
 - [x] Advanced React Patterns Outro
 
 # Section 6 - React Performance
-- [ ] React Performance Welcome
-- [ ] Code Splitting
-- [ ] useMemo for Expensive Calculations
+- [x] React Performance Welcome
+- [x] Code Splitting
+- [x] useMemo for Expensive Calculations
 - [ ] React.memo for Reducing re-renders
 - [ ] Window Large Lists with react-virtual
 - [ ] Optimize Context Value
